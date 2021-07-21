@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "kuwabot"
+version = "0.1.0"
+description = ""
+authors = ["Walker <yuitanabe@aol.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+"discord.py" = "^1.7.3"
+
+[tool.poetry.extras]
+voice = ["discord.py"]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
