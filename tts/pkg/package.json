@@ -1,0 +1,16 @@
+{
+  "name": "tts-api",
+  "collaborators": [
+    "Walker <yuitanabe@aol.com>"
+  ],
+  "version": "0.0.0",
+  "files": [
+    "tts_api_bg.wasm",
+    "tts_api.js",
+    "tts_api_bg.js",
+    "tts_api.d.ts"
+  ],
+  "module": "tts_api.js",
+  "types": "tts_api.d.ts",
+  "sideEffects": false
+}
