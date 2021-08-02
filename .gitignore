@@ -130,5 +130,4 @@ dmypy.json
 poetry.lock
 
 node_modules
-*.js
 .env
