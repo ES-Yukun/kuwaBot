@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "allowJs": false,
+        "target": "ES2018",
+        "moduleResolution": "node",
+        "module": "commonjs"
+    }
+}
